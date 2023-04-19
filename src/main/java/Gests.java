@@ -19,12 +19,4 @@ public class Gests {
                scanner.nextLine();
            }
     }
-
 }
-
-
-
-
-
-
-
